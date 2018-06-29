@@ -1,0 +1,21 @@
+Strikes: 'If no strike indicator is present above the countdown timer, the bomb will explode upon the first strike' - in other case you''ll see the strike indicator
+
+Serial number - This type of information can typically be found on the top, bottom, or sides of the bomb casing
+
+Modules:
+1 - Wires
+2 - Button
+3 - Keypads (funny symbols)
+4 - Colored rhombus (diamond)
+5 - Who's on First (Display + 6 lables)
+6 - Subject of Memory (display + 4 buttons)
+7 - Morse code - never see before
+8 - Complicated wires - never see before
+9 - Wire sequences - never see before
+10 - Maze
+11 - Passwords - never see before
+
+Needy modules
+1. Venting Gas
+2. Capasitor discharge
+3. Subject of Knods
